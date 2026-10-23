@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm **Sai Sandeep Seelam**, a Computer Science student at VIT Chennai, India.
+I'm **Sandeep**, a Computer Science student at VIT Chennai, India.
 
 I enjoy building projects, solving problems, and exploring new technologies.
 
@@ -14,7 +14,6 @@ I'm currently learning, building projects, and improving my problem-solving skil
 
 ## Fun Facts
 
-- CSE student at VIT Chennai
-- Exploring AWS and cloud-native development
-- Interested in AI/ML and data analytics
-- Always building something new
+- I don't like coffee or tea
+- Attack on Titan is my favorite anime
+- Hobbies: anime, gym, bulding things
